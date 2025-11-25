@@ -50,20 +50,20 @@ Certifications:
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Lokesh-Reddy-Kambham/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/gosalahemanth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gosala-hemanth-kumar/)
 
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lgosalahemanth&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gosalahemanth&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gosalahemanth&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosalahemanth&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="Top Languages" />
-</p>
+</p> -->
 ````
