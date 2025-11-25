@@ -54,9 +54,7 @@ Certifications:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gosala-hemanth-kumar/)
 
 
----
-
-## 📊 GitHub Stats
+--
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gosalahemanth&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
 </p>
